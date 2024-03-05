@@ -1,2 +1,2 @@
 # my-awesome-project
-git@github.com:axeljdev/my-awesome-project.git
+This awesome project is created to experiment git notions like clone, push and pull)
